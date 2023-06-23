@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id	s%3A0-732b153c-54e5-5525-5cfc-11088a592d9d.0iQLDSQmf8BCUoIIwjq1tKfPLQULF3T3VG7MpfSI2PA
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id-v2	s%3AcysVPFTlVSVc_BEIilktnYbux0E.QT5JyfMKFVCij%2FEsRBx010AhwOsjbDVUyDR45hx%2BsZM
+srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id-v2	s%3AcysVPFTlVSVc_BEIilktnYbux0E.QT5JyfMKFVCij%2FEsRBx010AhwOsjbDVUyDR45hx%2BsZM
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	SameSite	None
+.www.dca.ca.gov	TRUE	/	FALSE	1999999999	TS017502fb	01ed741c22332ec9bedc97a839da88d8dac8116d36c14c4cb0c2c374d79a217ca7dfdd986daccdf5a4c14f2e49420c0584ca6f4c1a
+.bcc.ca.gov	TRUE	/	FALSE	1999999999	TS01937f7d	01ed741c221d61a04a0f59685a890f713c3331080f2ec20057f0a8742794bad586e1dca7c08caa5916c052f7398ad3af83168c5176
+

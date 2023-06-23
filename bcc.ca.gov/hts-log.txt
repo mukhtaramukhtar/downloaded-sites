@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Jun 2023 11:54:12 at https://bcc.ca.gov/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bcc.ca.gov/ -O1 "C:\Development\downloaded-websites\bcc.ca.gov" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:54:13	Warning: 	Note: due to https://bcc.ca.gov remote robots.txt rules, links beginning with these path will be forbidden: /css, /images, /js, /fonts, /templates, /ssi (see in the options to disable this)
+11:54:23	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://bcc.ca.gov/)
+11:55:03	Error: 	"Not Found" (404) at link https://www.dca.ca.gov/images/covid19_mask.jpg (from https://bcc.ca.gov/)
+11:55:03	Error: 	"Not Found" (404) at link https://bcc.ca.gov/c (from https://connect.facebook.net/en_US/fbevents.js)
+11:55:03	Error: 	"Not Found" (404) at link https://bcc.ca.gov/b (from https://connect.facebook.net/en_US/fbevents.js)
+11:55:03	Error: 	"Not Found" (404) at link https://bcc.ca.gov/POST (from https://connect.facebook.net/en_US/fbevents.js)
+11:55:53	Error: 	"Not Found" (404) at link https://bcc.ca.gov/clear/videos/reg_account_mgmt/assets/Playbar_icons/Play_icon.png (from https://bcc.ca.gov/clear/videos/reg_account_mgmt/assets/css/CPLibraryAll.css)
+11:55:53	Error: 	"Not Found" (404) at link https://bcc.ca.gov/clear/videos/apply/assets/Playbar_icons/Play_icon.png (from https://bcc.ca.gov/clear/videos/apply/assets/css/CPLibraryAll.css)
+11:55:53	Error: 	"Not Found" (404) at link https://bcc.ca.gov/clear/videos/temp_to_annual/assets/Playbar_icons/Play_icon.png (from https://bcc.ca.gov/clear/videos/temp_to_annual/assets/css/CPLibraryAll.css)
+11:55:53	Error: 	"Not Found" (404) at link https://bcc.ca.gov/clear/videos/fees/assets/Playbar_icons/Play_icon.png (from https://bcc.ca.gov/clear/videos/fees/assets/css/CPLibraryAll.css)
+11:55:53	Error: 	"Not Found" (404) at link https://bcc.ca.gov/clear/videos/complaint/assets/Playbar_icons/Play_icon.png (from https://bcc.ca.gov/clear/videos/complaint/assets/css/CPLibraryAll.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 41 seconds : 211 links scanned, 200 files written (112368219 bytes overall) [112422698 bytes received at 1113096 bytes/sec], 131575 bytes transferred using HTTP compression in 2 files, ratio 25%, 7.0 requests per connection
+(10 errors, 1 warnings, 0 messages)
